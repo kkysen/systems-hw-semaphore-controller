@@ -1,4 +1,4 @@
-# SemaphoreController
+# Systems HW - Semaphore Controller
 
 ##### Note: 
 I used the newer and simpler POSIX semaphores 
